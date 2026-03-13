@@ -49,4 +49,5 @@ De esta manera, el primero se lleva \(N\) puntos, el segundo \(N-1\) y así suce
 El ganador del **Advent of Code de LIMA 2025** será la persona con más puntos.
 Quedarán excluidas aquellas personas que no sean estudiantes de la UAM.
 
-[← volver al inicio](/)
+[← volver al inicio](/) \
+[← volver a eventos](/eventos)

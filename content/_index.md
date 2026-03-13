@@ -33,14 +33,12 @@ Lista de enlaces:
 - [Servidor de Discord](/link/discord)
 - [Página de GitHub](/link/github)
 
-## Servicios y proyectos de la asociación
+## Servicios y proyectos activos de la asociación
 
 - [Mirror de ArchLinux](/mirror/archlinux)
 - [Servidor de Minecraft LIMA CEEPS](/eventos/2026/minecraft-ceeps-lima)
 
-### Eventos pasados
-
-- [Competición Advent of Code 2025](/eventos/2025/advent-of-code)
+[Lista completa de eventos pasados →](/eventos)
 
 {{< notice >}}
 **Esta web está bajo construcción, ¡poco a poco iremos añadiendo más contenido!**

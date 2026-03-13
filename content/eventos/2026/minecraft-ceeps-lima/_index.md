@@ -58,4 +58,5 @@ Además, puede que reseteemos el mapa unas semanas una vez obtengamos una máqui
 
 En caso de cualquier incidencia escribir a [lima.asociacion@uam.es](mailto:lima.asociacion@uam.es)
 
-[← volver al inicio](/)
+[← volver al inicio](/) \
+[← volver a eventos](/eventos)
