@@ -31,9 +31,9 @@ El **Consejo de Estudiantes** en colaboración con la **Asociación LIMA** 🍋�
 
 El servicio está reservado para miembros de la Escuela Politécnica Superior.
 Para conectarte debes seguir los siguientes pasos:
-1. Manda un correo electrónico desde tu **dirección institucional** (@\*.uam.es) a [whitelist.mc.ceeps@lima.sh](mailto:whitelist.mc.ceeps@lima.sh?subject=Whitelist%20MC%20EPS%20LIMA&body=IGN) con los siguientes datos:
+1. Manda un correo electrónico desde tu **dirección institucional** (@\*.uam.es) a [whitelist.mc.ceeps@lima.sh](mailto:whitelist.mc.ceeps@lima.sh?subject=Whitelist%20Servidor%20MC%20EPS%20LIMA&body=%5BIGN%5D) con los siguientes datos:
     - asunto: `Whitelist MC EPS LIMA`,
-    - cuerpo: `<nombre de usuario minecraft>`.
+    - cuerpo: `[nombre de usuario minecraft]` únicamente.
 1. Espera medio minuto.
 1. Ya puedes jugar a través de `mc.ceeps.lima.sh`.
 
@@ -53,7 +53,7 @@ Por el momento el número máximo de jugadores concurrentes estará limitado a *
 - Servidor fabric con mods de optimización detrás de un proxy velocity.
 - Distancia de renderizado y procesado del servidor dinámica en función de la carga.
 
-En caso de cualquier incidencia escribir a [lima.asociacion@uam.es](mailto:lima.asociacion@uam.es)
+En caso de cualquier incidencia escribir a [incidencias.mc.ceeps@lima.sh](mailto:incidencias.mc.ceeps@lima.sh?subject=Incidencia%20Servidor%20MC%20EPS)
 
 ## Lista de cambios
 
