@@ -35,8 +35,8 @@ Lista de enlaces:
 
 ## Servicios y proyectos activos de la asociación
 
-- [Mirror de ArchLinux](/mirror/archlinux)
 - [Servidor de Minecraft LIMA CEEPS](/eventos/2026/minecraft-ceeps-lima)
+- [Mirror de ArchLinux](/eventos/2025/mirror-archlinux)
 
 [Lista completa de eventos pasados →](/eventos)
 
