@@ -49,7 +49,7 @@ Por el momento el número máximo de jugadores concurrentes estará limitado a *
 
 ## Detalles técnicos
 
-- VPS: AMD EPYC CPU con 4 vCores @ 3.0GHz y 8GB RAM.
+- VPS: AMD EPYC CPU con 8 vCores @ 3.0GHz y 24GB RAM.
 - Servidor fabric con mods de optimización detrás de un proxy velocity.
 - Distancia de renderizado y procesado del servidor dinámica en función de la carga.
 
@@ -60,6 +60,7 @@ En caso de cualquier incidencia escribir a [incidencias.mc.ceeps@lima.sh](mailto
 - **26/02/2026**: apertura inicial del servidor.
 - **01/03/2026**: implementación funcional de _whitelist_ automática y _mods_ VoiceChat y DistantHorizons para mejor experiencia de cliente.
 - **13/03/2026**: eliminación de soporte para cuentas no-prémium por falta de demanda y excesiva complejidad de implementación con la _whitelist_ automática y sistema de inicio de sesión.
+- **13/03/2026**: aumento de las prestaciones del servidor a 24GB de RAM y 8 vCores.
 
 [← volver al inicio](/) \
 [← volver a eventos](/eventos)
