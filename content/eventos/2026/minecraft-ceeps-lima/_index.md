@@ -41,12 +41,6 @@ Para conectarte debes seguir los siguientes pasos:
 También se comprueba la dirección del remitente para limitarlo a miembros de la comunidad.
 _Usad únicamente el correo institucional_.
 
-{{< notice >}}
-Este servicio está actualmente en pruebas.
-Estamos trabajando para mejorar las prestaciones de la máquina y los juegos que ofrecemos.
-Por el momento el número máximo de jugadores concurrentes estará limitado a **20**.
-{{< /notice >}}
-
 ## Detalles técnicos
 
 - VPS: AMD EPYC CPU con 8 vCores @ 3.0GHz y 24GB RAM.
@@ -60,7 +54,7 @@ En caso de cualquier incidencia escribir a [incidencias.mc.ceeps@lima.sh](mailto
 - **26/02/2026**: apertura inicial del servidor.
 - **01/03/2026**: implementación funcional de _whitelist_ automática y _mods_ VoiceChat y DistantHorizons para mejor experiencia de cliente.
 - **13/03/2026**: eliminación de soporte para cuentas no-prémium por falta de demanda y excesiva complejidad de implementación con la _whitelist_ automática y sistema de inicio de sesión.
-- **13/03/2026**: aumento de las prestaciones del servidor a 24GB de RAM y 8 vCores.
+- **13/03/2026**: aumento de las prestaciones del servidor a 24GB de RAM y 8 vCores con consecuente aumento de la capacidad de jugadores a 50 y distancia de renderizado.
 
 [← volver al inicio](/) \
 [← volver a eventos](/eventos)
