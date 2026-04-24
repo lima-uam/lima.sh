@@ -51,10 +51,11 @@ En caso de cualquier incidencia escribir a [incidencias.mc.ceeps@lima.sh](mailto
 
 ## Lista de cambios
 
-- **26/02/2026**: apertura inicial del servidor.
-- **01/03/2026**: implementación funcional de _whitelist_ automática y _mods_ VoiceChat y DistantHorizons para mejor experiencia de cliente.
+- **13/04/2026**: finalización de la actividad hasta nuevo aviso.
 - **13/03/2026**: eliminación de soporte para cuentas no-prémium por falta de demanda y excesiva complejidad de implementación con la _whitelist_ automática y sistema de inicio de sesión.
 - **13/03/2026**: aumento de las prestaciones del servidor a 24GB de RAM y 8 vCores con consecuente aumento de la capacidad de jugadores a 50 y distancia de renderizado.
+- **01/03/2026**: implementación funcional de _whitelist_ automática y _mods_ VoiceChat y DistantHorizons para mejor experiencia de cliente.
+- **26/02/2026**: apertura inicial del servidor.
 
 [← volver al inicio](/) \
 [← volver a eventos](/eventos)
