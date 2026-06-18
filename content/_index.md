@@ -35,7 +35,7 @@ Lista de enlaces:
 
 ## Servicios y proyectos activos de la asociación
 
-- [Gran Torneo de Mus de Verano de la LIMA](eventos/2026/gran-torneo-de-mus-de-verano)
+- [Torneo de Bots](eventos/2026/torneo-de-bots)
 - [Museo Tecnológico EPS-UAM](/eventos/2026/colaboración-lima-museo-eps)
 - [Mirror de ArchLinux](/eventos/2025/mirror-archlinux)
 
