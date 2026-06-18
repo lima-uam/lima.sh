@@ -24,6 +24,10 @@ Como el espacio está reservado desde las 15:00, podéis pasaros antes de las 17
 
 ¡Nos vemos en el II Torneo de bots LIMA 🍋‍🟩!
 
+### El cómo y el dónde
+
+*El torneo está accesible desde [esta página](https://lima.sh/bots) maravillosa crafteada por los mejores modelos de lenguaje disponibles en todo Curaçao.*
+
 La conferencia se realizará en nuestro [discord](https://lima.sh/link/discord).
 
 [← volver al inicio](/) \
