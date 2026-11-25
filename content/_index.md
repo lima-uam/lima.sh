@@ -35,7 +35,7 @@ Lista de enlaces:
 
 ## Servicios y proyectos activos de la asociación
 
-- [Torneo de Bots](eventos/2026/torneo-de-bots)
+- [Advent of Code 2026](/eventos/2026/advent-of-code)
 - [Museo Tecnológico EPS-UAM](/eventos/2026/colaboración-lima-museo-eps)
 - [Mirror de ArchLinux](/eventos/2025/mirror-archlinux)
 
