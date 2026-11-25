@@ -32,7 +32,7 @@ Si quieres participar, solo tienes que crearte [una cuenta](https://adventofcode
 Una vez que estés registrado, puedes acceder a la sección `[Leaderboards]` e introducir el siguiente código:
 
 ```
-5135547-6f412d6d
+5135547-ccb4f0e7
 ```
 
 Puedes consultar el ranking en tiempo real en [este enlace](https://adventofcode.com/2025/leaderboard/private/view/5135547?view_key=ceda0cb3).
